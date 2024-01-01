@@ -1,4 +1,4 @@
-#Love Note Generator
+# Love Note Generator
 
 ## Description
 I created this project while working through the Codecademy full stack developer program. This is a portfolio project where the requirements were to use Javascript to generate three messages, each chosen randomly. I could have chosen to generate jokes, inspirational quotes, or whatever else. I chose to generate three random messages that combine to make a love note.
